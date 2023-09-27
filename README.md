@@ -27,3 +27,8 @@ Professor [Leonardo](https://github.com/leonardorochamarista)
 
 # autores
 Cristian
+
+## explicações dos códigos
+* o código HTML5 é a base para o site e o css3 é a estilização do site
+é o css que vai modificar cores e reposicionar deacordo com o código inserido
+para ficar do seu gosto (interece) ou de seu cliente.
