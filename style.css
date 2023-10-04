@@ -4,14 +4,26 @@ margin: 0px;
 font-size: 30px;
 }
 form{
-  background-color: rgb(12, 212, 212);
+  padding-top: 200px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
 }
 button{
   background-color: red;
 }
-form{
-  margin: 0px;
+html{
+  background-color:blue;
 }
-body{
-  margin: 0px;
+p{
+  background-color: aquamarine;
+  margin: 1px;
+}
+input{
+  padding-left: 50px;
+  margin-left: 19px;
+}
+textarea{
+  padding-left: 55px;
+  padding-top: 50px;
 }
